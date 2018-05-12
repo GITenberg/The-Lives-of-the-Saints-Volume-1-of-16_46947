@@ -1,4 +1,8 @@
 _repo: The-Lives-of-the-Saints-Volume-1-of-16_46947
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46947-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46947#The-Lives-of-the-Saints-Volume-1-of-16
 gutenberg_issued: '2014-09-24'
 gutenberg_type: Text
 identifiers:
